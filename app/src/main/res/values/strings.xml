@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Project Login</string>
+
+    <string name="logoName">Passosync</string>
+    <string name="logoDesc">Wear,Train,Compete</string>
+    <string name="imageforapplogo">imageforapplogo</string>
+    <string name="helloplayerWelcomeBack">Hello player, Welcome Back</string>
+    <string name="signintocontinue">Login to Continue</string>
+    <string name="username">UserName</string>
+    <string name="password">PassWord</string>
+    <string name="forgetpassword">Forget password?</string>
+    <string name="GO">Login</string>
+    <string name="neweuser">New user sign up?</string>
+    <string name="signup">Signup to connect</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone No.</string>
+    <string name="signupbutton">Signup</string>
+    <string name="alreadyRegister">Already have a account?Login</string>
+</resources>
